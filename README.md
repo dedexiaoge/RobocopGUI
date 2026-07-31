@@ -1,4 +1,5 @@
-\# Robocopy GUI
+\# Robocopy GUI 
+要下载.NET 下载地址https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-11.0.100-preview.6-windows-x64-installer
 
 
 
